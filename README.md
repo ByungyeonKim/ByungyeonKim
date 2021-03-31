@@ -1,16 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=29b6f6&height=300&section=header&text=Let's%20be%20a%20great%20developer.&fontSize=50&fontColor=fff&fontAlignY=30&fontAlign=40)
 
-<!--
-**ByungyeonKim/ByungyeonKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##<center>Hi there 👋 I'm Byungyeon Kim.</center>
 
-Here are some ideas to get you started:
+###<center>🚀 Tech stack 🚀</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> 
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/> 
+<center>
