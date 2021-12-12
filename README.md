@@ -1,22 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=29b6f6&height=250&section=header&text=Byungyeon%20Kim&fontSize=70&fontColor=fff&fontAlignY=40)
 
-<h3 align="center">👋 Hi there,</h3>
+# 👋 안녕하세요!
+사용자와 제일 친한 🤝 주니어 프론트엔드 개발자입니다.
 
-<p align="center">
-    I'm Byungyeon Kim who is studying Front-end development. 📚 <br>
-    Daily routine ☕️, 🧑🏻‍💻, 🏃🏻‍♂️, 💪
-</p>
+- 개발을 자유롭게 할 수 있는 환경을 좋아합니다
+- 같은 목표를 바라보는 좋은 팀원만 있다면, 어떤 일이든 상관 없습니다
+- 배운 지식을 문서화하고, 공유하는 걸 좋아합니다
+- 대화가 많은 조직을 선호합니다
 
-<h3 align="center">🚀 Tech stack 🚀</h3>
+## 기술 스택
 
-<p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/>
-</p>
+- React.js
+- ES6+
+- HTML5/CSS3
