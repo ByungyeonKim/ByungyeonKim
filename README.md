@@ -11,6 +11,7 @@
 
 ## 기술 스택
 
+- TypeScript
 - Next.js
 - React.js
 - ES6+
